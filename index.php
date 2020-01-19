@@ -7,8 +7,5 @@
 <footer>
     <main>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eaque, et alias assumenda, sequi culpa neque nam perferendis esse incidunt animi placeat omnis quae inventore molestiae error voluptate magnam unde. Velit!</main>
 </footer>
-<<<<<<< HEAD
 <p>modified with master</p>
-=======
 <p>modified with dev</p>
->>>>>>> dev
